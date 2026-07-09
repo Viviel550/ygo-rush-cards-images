@@ -1,5 +1,4 @@
 # ygo-rush-cards-images
-Just bunch of cards images for ygo rush with IDs matching the one for ProjectIgnis
 
 Repository for storing Yu-Gi-Oh! Rush Duel card images using passcodes that match the ProjectIgnis ID format.
 
